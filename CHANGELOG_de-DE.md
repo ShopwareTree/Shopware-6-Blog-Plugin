@@ -1,3 +1,6 @@
+# 2.0.9
+- Fehler behoben, das Boxed Darstellung geprüft wird vom Blog und nicht von der Hauptseite
+
 # 2.0.8
 - Gelöst für das Problem [#206](https://github.com/ChristopherDosin/Shopware-6-Blog-Plugin/issues/206)
 
